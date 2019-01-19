@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/opt/bin/deno --allow-all /opt/bootstrap.ts
+/opt/bin/deno --allow-all /opt/runtime.ts
